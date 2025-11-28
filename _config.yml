@@ -14,7 +14,7 @@ url: https://xavierwzz.github.io
 # --------------------------------------------------
 owner:
   name: Zongze Wu
-  avatar: /me.jpg
+  avatar: images/head.jpg
   # bio: One is never too old to learn.
   email: zongzepaper@hotmail.com
   # cv: https://xavierwzz.github.io/file/CV-Zongze Wu.pdf
@@ -48,8 +48,6 @@ links:
     url: /distinctions/
   - title: Hobbies
     url: /hobbies/
-  - title: 中文
-    url: /cn/
 
 
 # --------------------------------------------------

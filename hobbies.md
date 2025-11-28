@@ -4,52 +4,39 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-> This page hasn’t been updated for a long time.
->
-> Over the past year, I’ve remained passionate about swimming, but the lack of convenient and decent swimming pools in Cambridge has been an inconvenience. As a result, I’ve been swimming less frequently and have gained some weight. If you’re also in Cambridge and interested in swimming, running, or cycling together, feel free to contact me!
+> Over the past year, I've tried many sports, including skiing, figure skating, ice speed skating, tennis, volleyball, Yang-style Tai Chi, Chen-style Tai Chi, Baduanjin, Wuqinxi, bungee jumping, dragon dance, squash, diabolo, and bowling. My current favorites are Baduanjin and bowling. If you're also in Porto and interested in exercise, feel free to reach out!
 
 # Hobbies
 
-## Swimming & Surfing
+## Some photos
 
 <div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="/images/ice skating.jpg" style="width: 200px; height: 200px; object-fit: cover; padding: 5px;">
+<img src="/images/bowling.jpg" style="width: 200px; height: 200px; object-fit: cover; padding: 5px;">
+<img src="/images/dragon dance.jpg" style="width: 200px; height: 200px; object-fit: cover; padding: 5px;">
+<img src="/images/squash.jpg" style="width: 200px; height: 200px; object-fit: cover; padding: 5px;">
+<img src="/images/bungee2.jpg" style="width: 200px; height: 200px; object-fit: cover; padding: 5px;">
+<img src="/images/baduanjin.jpg" style="width: 200px; height: 200px; object-fit: cover; padding: 5px;">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 15-year swimming career. Recently, I am also keen on surfing.
+<br>Exercise not only promotes hormone secretion, but also develops fundamental physical abilities (walking, running, jumping, throwing, climbing, and lifting) and fosters an optimistic, resilient mindset.
 
-## Workshop
+## Cook
 
 <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+<img src="/images/cook1.jpg" style="width: 200px; height: 200px; object-fit: cover; padding: 5px;">
+<img src="/images/cook2.jpg" style="width: 200px; height: 200px; object-fit: cover; padding: 5px;">
+<img src="/images/cook3.jpg" style="width: 200px; height: 200px; object-fit: cover; padding: 5px;">
+<img src="/images/cook4.jpg" style="width: 200px; height: 200px; object-fit: cover; padding: 5px;">
 </div>
-<br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
-
-[best universities in my hometown]:https://www.fzu.edu.cn/
+<br>Life is always full of challenges and possibilities, much like cooking. Every combination of seasonings can create an unexpected new flavor. It also demands patience and careful attention, reminding us that meaningful results often come from time and intention.
 
 
-## Past Hobbies
 
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
+## Beaded bracelet
 
-## My Cat
-
-She is my love. Her name is Qbao (Q宝).
 
 <div>
-<img src="/images/cat.JPG">
+<img src="/images/hulu1.jpg" style="width: 200px; height: 200px; object-fit: cover; padding: 5px;">
 </div>
 <br>
 
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->

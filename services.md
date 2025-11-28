@@ -2,34 +2,31 @@
 layout: page
 permalink: /services/index.html
 title: Services
-
 ---
 
-> I am always open to reviewing manuscripts in areas related to 5G/6G communications, networking, security, machine learning and the broader field of artificial intelligence. If you have any relevant review requests, please feel free to invite me at - hc663[at]cam.ac.uk
+> I am always happy to write and review manuscripts related to sport science and the intersection of sports with other fields. Please feel free to contact me at zongzepaper@hotmail.com, if you have any requests. 
 
 ## Academic Services
 
-- IEEE Communications Letters (2025)
-- IEEE International Conference on Communications (2025)
-- IEEE Global Communications Conference (2025)
-- IEEE Conference on Local Computer Networks (2025)
-- AAAI Conference on Artificial Intelligence (2025)
-- Elsevier Sustainable Cities and Society (2025)
+- Research Assistant of Kinesiology Lab (Director: Prof. Zhaowei Kong), University of Macau<br>2021/07/16-2023/06/30
 
 <br>
 
-## Teaching and Supervision
+## Teaching assistant
 
-- [Cambridge Undergraduate Part-IIB Project](https://teaching.eng.cam.ac.uk/content/part-iib-project-introduction)<br>Student: [Jon Tindal](https://www.linkedin.com/in/jon-tindal-a87668254/). Co-supervised with Prof. Ozgur Akan<br>Topic: Spectrum Sensing with Deep Learning for Cognitive Radio.
+- Teaching assistant, University of Macau<br>2022/01/01-2022/05/31.
+- Teaching assistant, University of Macau<br>2021/08/18-2021/12/17.
+- Teaching assistant, University of Macau<br>2021/01/01-2021/05/31.
+- Teaching assistant, University of Macau<br>2020/09/01-2020/12/31.
+
 
 <br>
 
-## Voluntary Service
+## Other Services
 
-- Student Volunteer of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (2024)
-- Student Volunteer of the 38th Annual AAAI Conference on Artificial Intelligence (2024)
-- Student volunteer of the 44th session of the World Heritage Committee (2021)
-
+- Postgraduate house tutor, University of Macau<br>2020/09-2023/06.
+- President of student union, Harbin Sport University<br>2016/11-2017/11
+- Vice-President of student union, Harbin Sport University<br>2015/10-2016/11
 
 
 <br>

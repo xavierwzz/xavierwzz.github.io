@@ -4,48 +4,31 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
-
 ## Journal Manuscripts
 
-- [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine, 2025.<br>
+- [Physiological and Biomechanical Characteristics of Inline Speed Skating: A Systematic Scoping Review](https://www.mdpi.com/2076-3417/15/14/7994).<br>**Zongze Wu**; Filipa Cardoso; David B. Pyne; Márcio Fagundes Goethel; Ricardo J. Fernandes<br>Appl. Sci. 2025, 15, 7994.<br>
 
   
 
-- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to IEEE Communications Standards Magazine, 2025.<br>
+- [Acute Ketone Monoester Supplementation in Young Adults: Modulating Metabolic and Neurocognitive Functions Across Body Weights](https://cdnsciencepub.com/doi/10.1139/apnm-2024-0229).<br>Qian Yu; Ka Kit Wong; On Kei Lei; Paulo Armada-da-Silva; **Zongze Wu**; Jinlei Nie; Qingde Shi; Zhaowei Kong<br>Applied Physiology, Nutrition, and Metabolism. 2024. 50: 1-12.<br>
 
   
 
-- [Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels](https://arxiv.org/abs/2510.19007)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan~<br>Submitted to IEEE Transactions on Wireless Communications, 2025.<br>
-
-  
-  
-- Perspectives on Visual Analytics for Advancing Imaginative Intelligence<br>Xiangxuan Zhang, **Hanlin Cai**, Xumeng Wang~<br>Submitted to Visual Informatics, 2026.<br>
+- [Cerebral Oxygenation and Cardiac Output Responses During Short Repeated-Sprints Exercise and Modulatory Effect of Glucose Ingestion](https://www.biorxiv.org/content/10.1101/2022.12.05.519099v2).<br>Paulo A. S. Armada-da-Silva; Hu Mingzhu; **Wu Zongze**; Wen Linjian; Feng Ruisen; Xinglin Zeng; Zhen Yuan; Zhaowei Kong<br>bioRxiv, 2022-12.<br>
 
   <br>
 
-## Conference Paper
-
-- Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Ozgur B. Akan~<br>Submitted to an IEEE ComSoc Conference, 2026. <br>
-
-- [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications (IEEE MolCom 2025)<br>Catania, Italy. February, 2025.<br>
-
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai†**, Yuchen Fang**†**, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu**~**<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM KDD 2024), [Undergraduate Consortium](https://kdd2024.kdd.org/undergraduate-consortium/).<br>Barcelona, Spain. August, 2024.<br>
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu**~**<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2024), Poster.<br>Tokyo, Japan. June, 2024.<br>
-
-- [Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design](https://arxiv.org/abs/2504.20016)<br>Linshi Li, **Hanlin Cai~**<br>The 24th Annual ACM Interaction Design and Children Conference (ACM IDC 25)<br>Reykjavik, Iceland. June, 2025.<br>
-
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~**<br>The 14th IEEE International Conference on Educational and Information Technology (IEEE ICEIT 2025).<br>Guangzhou, China. March, 2025.<br><br>
-
-
 ---
 
-## Early Project
+## Early Projects
 
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project ([thesis](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.<br>
+- Effects of time restricted feeding with high interval training on health outcomes in overweight young females
+[MYRG2020-00266-FED](https://repository.um.edu.mo/handle/10692/92437), MOP125,000.00<br>As a researcher, 2021/04-2023/03.<br>
+Funders: University of Macau.<br>
 
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics.
+- The effect of ketone ester supplementation and ketogenic diet on brain plasticity in overweight/obese adults: a neurophysiological and resting functional magnetic resonance study (rfMRI)
+[FDCT 0011/2021/ITP](https://www.fdct.gov.mo/download/information/Approved/2021ITP.pdf), MOP500,000.00<br>As a researcher, 2022/02-2023/03.<br>
+Funders: Science and Technology Development Fund, Macao SAR.<br>
 
   <br>
 
@@ -53,11 +36,20 @@ title: Publications
 
 ## Degree Thesis
 
-- [Semantic Communication for the Internet of Everything: From Molecular to Space Networks](https://caihanlin.com/mypaper/thesis/MPhil_thesis.pdf)<br>**Hanlin Cai** (Advisor: Dr. Ozgur B. Akan).<br>Examiners: [Dr. Sasitharan Balasubramaniam](https://computing.unl.edu/person/sasitharan-balasubramaniam/), [Dr. Qixiang Cheng](https://www.eng.cam.ac.uk/profiles/qc223).<br>Thesis awarded Distinction.<br>
+- [Effect of high-intensity interval training with low-carbohydrate diet on sleep quality](https://libdigital.um.edu.mo/um-theses/show/991010315476806306?src_url=%2Fsearch%2Fspecific%2Fdc-um-theses%3Fq%3Dwu%2Bzongze%26faculty%3DFaculty%2Bof%2BEducation%26from%3D%252Fum-theses%252Flist%252Fby-faculty%253Ffaculty%253DFaculty%252520of%252520Education%2526degree%253DMASTER%26type%3Ddc-um-theses&from=specific_search)<br>**Wu, Zongze** (Supervisor: Prof.Zhaowei Kong). Graduation thesis: excellent.
+Graduation honour: excellent.<br>
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Dr. Zhezhuang Xu).<br>Best Bachelor Thesis Award (Top 1/300).<br>
+  <br>
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Dr. Zhezhuang Xu, Yuxiong Xia).<br>Industrial Placement Report at China Huading Tech.<br>
+---
+
+## Activities
+
+- Academic internship (Heilongjiang ice sports base snow sports training center), excellent intern, 2018.<br>
+- National ice hockey team cross-major selection test (Harbin, Jilin, Shenyang), the only undergraduate tester, in preparation for the 2022 Beijing Winter Olympic Games. 2017/03.<br>
+- National student fitness standard test (Jinan, Shandong), as a tester, I was appointed by the Ministry of Education of the People's Republic of China and selected by Harbin Sport University. 2016/11.<br>
+- National student fitness standard test (Hohhot, Inner Mongolia), as a tester, I was appointed by the Ministry of Education of the People's Republic of China and selected by Harbin Sport University. 2017/11.<br>
+
 
   <br>
 

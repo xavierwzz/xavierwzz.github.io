@@ -15,6 +15,6 @@ title: Distinctions
 - Fourth place in ice speed skating at the 32nd Harbin Sport University Ice Games (2016)
 - Model of civilized students (2015)
 - Excellent individual award for summer social practice (2015)
-- Scholarship four times, top3% (2014-2018)
+- Scholarship six times, top3% (2014-2018)
 
 <br>

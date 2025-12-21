@@ -6,7 +6,7 @@ title: Distinctions
 
 ## Distinctions
 
-- Graduation Honour: Excellent (2023)
+- Graduation honour: EXCELLENT (2023)
 - Excellent basketball scorer referee (2020)
 - Research assistantship (2021-2023)
 - Teaching assistantship (2020-2022)

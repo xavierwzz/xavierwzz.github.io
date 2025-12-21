@@ -6,7 +6,7 @@ title: Services
 
 > I am always happy to write and review manuscripts related to sport science and the intersection of sports with other fields. Please feel free to contact me at zongzepaper@hotmail.com, if you have any requests. 
 
-## Academic Services
+## Academic services
 
 - Research assistant of kinesiology lab (Director: Prof. Zhaowei Kong), University of Macau<br>2021/07/16-2023/06/30
 

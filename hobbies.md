@@ -4,7 +4,7 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-> Over the past years, I've tried many sports, including skiing, figure skating, ice speed skating, tennis, volleyball, yang-style taichi, chen-style taichi, baduanjin, wuqinxi, bungee jumping, dragon dance, squash, diabolo, and bowling. My current favorites are baduanjin and bowling. If you're also in Porto and interested in exercise, feel free to reach out!
+> Over the past years, I've tried many sports, including skiing, figure skating, ice speed skating, tennis, volleyball, yang-style Taiichi, chen-style Taiichi, baduanjin, wuqinxi, bungee jumping, dragon dance, squash, diabolo, and bowling. My current favourites are baduanjin and bowling. If you're also in Porto and interested in exercise, feel free to reach out!
 
 # Hobbies
 

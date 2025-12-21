@@ -8,7 +8,7 @@ title: Services
 
 ## Academic Services
 
-- Research Assistant of Kinesiology Lab (Director: Prof. Zhaowei Kong), University of Macau<br>2021/07/16-2023/06/30
+- Research assistant of kinesiology lab (Director: Prof. Zhaowei Kong), University of Macau<br>2021/07/16-2023/06/30
 
 <br>
 

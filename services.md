@@ -22,7 +22,7 @@ title: Services
 
 <br>
 
-## Other Services
+## Other services
 
 - Postgraduate house tutor, University of Macau<br>2020/09-2023/06.
 - President of student union, Harbin Sport University<br>2016/11-2017/11

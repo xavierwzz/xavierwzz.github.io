@@ -10,7 +10,7 @@ title: Publications
 
   
 
-- [Acute ketone monoester supplementation in young adults: modulating metabolic and neurocognitive functions across body weights](https://cdnsciencepub.com/doi/10.1139/apnm-2024-0229).<br>Qian Yu; Ka Kit Wong; On Kei Lei; Paulo Armada-da-Silva; **Zongze Wu**; Jinlei Nie; Qingde Shi; Zhaowei Kong<br>Applied Physiology, Nutrition, and Metabolism. 2024. 50: 1-12.<br>
+- [Acute ketone monoester supplementation in young adults: modulating metabolic and neurocognitive functions across body weights](https://cdnsciencepub.com/doi/10.1139/apnm-2024-0229).<br>Qian Yu; Ka Kit Wong; On Kei Lei; Paulo Armada-da-Silva; **Zongze Wu**; Jinlei Nie; Qingde Shi; Zhaowei Kong<br>Appl. Physiol. Nutr. Metab. 2024. 50: 1-12.<br>
 
   
 

@@ -20,6 +20,14 @@ title: Publications
 
 ---
 
+## Poster
+
+- [Upper limb swing and lower limb joint kinematics in association with skating velocity during incremental inline speed skating: a case study](https://xavierwzz.github.io/services/).<br>**Zongze Wu**; Filipa Cardoso, Sofia Morais Cerqueira, João Paulo Vilas-Boas, David B. Pyne, Márcio Fagundes Goethel, Ricardo J. Fernandes<br>International Congress: "FADEUP 50 Years. Footprint and Future".<br>
+
+  <br>
+
+---
+
 ## Early projects
 
 - Effects of time restricted feeding with high interval training on health outcomes in overweight young females

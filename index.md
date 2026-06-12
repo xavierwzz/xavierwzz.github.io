@@ -25,7 +25,7 @@ If you are interested in any aspect of me, I am always open to discussions and a
 - Exercise metabolism
 - Biomechanics
 - Nutrition and dietetics
-- Exercise science
+- Exercise sciences
 
 ---
 

@@ -22,9 +22,9 @@ title: Publications
 
 ## Poster
 
-- [Upper limb swing and lower limb joint kinematics in association with skating velocity during incremental inline speed skating: a case study](https://www.researchgate.net/publication/406925861_Upper_limb_swing_and_lower_limb_joint_kinematics_in_association_with_skating_velocity_during_incremental_inline_speed_skatinga_case_study).<br>**Zongze Wu**; Filipa Cardoso, Sofia Morais Cerqueira, João Paulo Vilas-Boas, David B. Pyne, Márcio Fagundes Goethel, Ricardo J. Fernandes<br>[International Congress](https://www.up.pt/fadeup/en/50-years/international-congress/about-the-event/): "FADEUP 50 Years. Footprint and Future".<br>
+- [Upper limb swing and lower limb joint kinematics in association with skating velocity during incremental inline speed skating: a case study](https://www.researchgate.net/publication/406925861_Upper_limb_swing_and_lower_limb_joint_kinematics_in_association_with_skating_velocity_during_incremental_inline_speed_skatinga_case_study).<br>**Zongze Wu**; Filipa Cardoso, Sofia Morais Cerqueira, João Paulo Vilas-Boas, David B. Pyne, Márcio Fagundes Goethel, Ricardo J. Fernandes<br>[International Congress](https://www.up.pt/fadeup/en/50-years/international-congress/about-the-event/): "FADEUP 50 Years. Footprint and Future"2026.06.11-13.<br>
 
-- [Sex differences in biomechanical and energetic responses during progressive running: A biophysical approach](https://www.researchgate.net/publication/406930227_Sex_differences_in_biomechanical_and_energetic_responses_during_progressive_running_A_biophysical_approach).<br>Mayara Silva; Sofia Monteiro; **Zongze Wu**; Pedro Figueiredo; Filipe Conceição; Ricardo Fernandes.<br>[International Congress](https://www.up.pt/fadeup/en/50-years/international-congress/about-the-event/): "FADEUP 50 Years. Footprint and Future".<br>
+- [Sex differences in biomechanical and energetic responses during progressive running: A biophysical approach](https://www.researchgate.net/publication/406930227_Sex_differences_in_biomechanical_and_energetic_responses_during_progressive_running_A_biophysical_approach).<br>Mayara Silva; Sofia Monteiro; **Zongze Wu**; Pedro Figueiredo; Filipe Conceição; Ricardo Fernandes.<br>[International Congress](https://www.up.pt/fadeup/en/50-years/international-congress/about-the-event/): "FADEUP 50 Years. Footprint and Future"2026.06.11-13.<br>
 
   <br>
 
@@ -32,6 +32,12 @@ title: Publications
 
 ## Early projects
 
+**PhD period**
+- Rowing physiological and biomechanical evaluation using traditional and Randall foils.
+[2021.04976.BD](https://repositorio-aberto.up.pt/handle/10216/170707), MOP125,000.00<br>Participated in, 2024-2025.<br>
+Funders: Fundação para a Ciência e a Tecnologia.<br>
+
+**Mater period**
 - Effects of time restricted feeding with high interval training on health outcomes in overweight young females
 [MYRG2020-00266-FED](https://repository.um.edu.mo/handle/10692/92437), MOP125,000.00<br>As a researcher, 2021/04-2023/03.<br>
 Funders: University of Macau.<br>

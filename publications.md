@@ -62,11 +62,11 @@ Graduation honour: excellent.<br>
 ## Activities
 
 - Academic internship (Heilongjiang ice sports base snow sports training center), excellent intern, 2018.<br>
-- National ice hockey team cross-major selection test (Harbin, Jilin, Shenyang), only undergraduate student(figure 1), in preparation for the 2022 Beijing winter Olympic games. 2017/03.<br>
+- National ice hockey team cross-major selection test (Harbin, Jilin, Shenyang), only undergraduate student(**Figure 1**), in preparation for the 2022 Beijing winter Olympic games. 2017/03.<br>
 - National student fitness standard test (Hohhot, Inner Mongolia), as a tester, I was appointed by the Ministry of Education of the People's Republic of China and selected by Harbin Sport University. 2017/11.<br>
 - National student fitness standard test (Jinan, Shandong), as a tester, I was appointed by the Ministry of Education of the People's Republic of China and selected by Harbin Sport University. 2016/11.<br>
 <img src="/images/2022olympic.jpg" style="width: 200px; height: 200px; object-fit: cover; padding: 5px;">.<br>
-Figure 1. the second from right.
+**Figure 1**. The second from right.
 
 
   <br>

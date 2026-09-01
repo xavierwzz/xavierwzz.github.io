@@ -6,6 +6,10 @@ title: Publications
 
 ## Journal manuscripts
 
+- [Applied Testing and Performance Monitoring in Adolescent Competitive Swimmers: Sex-Specific Correlates of 400 m Front Crawl Performance](https://www.mdpi.com/2076-3417/16/17/8642).<br>Luana Domingues; Sofia Monteiro; **Zongze Wu**; Aléxia Fernandes; Mário J. Costa; Ricardo J. Fernandes<br>Appl. Sci. 2026, 16(17), 8642.<br>
+
+
+
 - [Physiological and biomechanical characteristics of inline speed skating: a systematic scoping review](https://www.mdpi.com/2076-3417/15/14/7994).<br>**Zongze Wu**; Filipa Cardoso; David B. Pyne; Márcio Fagundes Goethel; Ricardo J. Fernandes<br>Appl. Sci. 2025, 15, 7994.<br>
 
   

@@ -6,16 +6,16 @@ title: Publications
 
 ## Journal manuscripts
 
+- [Time-Restricted Ketogenic Diet Combined with Exercise Improves Cardiorespiratory Fitness but Compromises Sleep Quality in Overweight and Obese Young Adults: A Randomized Controlled Trial](**Accepted**).<br>**Zongze Wu**; Zhaowei Kong; Mingzhu Hu; Qingde Shi; Jinlei Nie<br>Applied Physiology, Nutrition, and Metabolism.<br>
+
+
 - [Applied Testing and Performance Monitoring in Adolescent Competitive Swimmers: Sex-Specific Correlates of 400 m Front Crawl Performance](https://www.mdpi.com/2076-3417/16/17/8642).<br>Luana Domingues; Sofia Monteiro; **Zongze Wu**; Aléxia Fernandes; Mário J. Costa; Ricardo J. Fernandes<br>Appl. Sci. 2026, 16(17), 8642.<br>
 
 
-
 - [Physiological and biomechanical characteristics of inline speed skating: a systematic scoping review](https://www.mdpi.com/2076-3417/15/14/7994).<br>**Zongze Wu**; Filipa Cardoso; David B. Pyne; Márcio Fagundes Goethel; Ricardo J. Fernandes<br>Appl. Sci. 2025, 15, 7994.<br>
-
   
 
 - [Acute ketone monoester supplementation in young adults: modulating metabolic and neurocognitive functions across body weights](https://cdnsciencepub.com/doi/10.1139/apnm-2024-0229).<br>Qian Yu; Ka Kit Wong; On Kei Lei; Paulo Armada-da-Silva; **Zongze Wu**; Jinlei Nie; Qingde Shi; Zhaowei Kong<br>Appl. Physiol. Nutr. Metab. 2024. 50: 1-12.<br>
-
   
 
 - [Cerebral oxygenation and cardiac output responses during short repeated-sprints exercise and modulatory effect of glucose ingestion](https://www.biorxiv.org/content/10.1101/2022.12.05.519099v2).<br>Paulo A. S. Armada-da-Silva; Hu Mingzhu; **Wu Zongze**; Wen Linjian; Feng Ruisen; Xinglin Zeng; Zhen Yuan; Zhaowei Kong<br>bioRxiv, 2022-12.<br>

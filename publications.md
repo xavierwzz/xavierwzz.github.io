@@ -6,6 +6,8 @@ title: Publications
 
 ## Journal manuscripts
 
+- [Upper limb swing affects metabolic and ventilatory responses during incremental inline speed skating: A case study.](https://rpcd.fade.up.pt/_arquivo/artigos_soltos/2026-3/2026-3-A2.pdf).<br>**Zongze Wu**; Filipa Cardoso; David B. Pyne; Márcio Fagundes Goethel; Ricardo J. Fernandes<br>Revista Portuguesa de Ciências do Desporto.<br>
+
 - [Time-Restricted Ketogenic Diet Combined with Exercise Improves Cardiorespiratory Fitness but Compromises Sleep Quality in Overweight and Obese Young Adults: A Randomized Controlled Trial](https://cdnsciencepub.com/doi/abs/10.1139/apnm-2026-0138).<br>**Zongze Wu**; Zhaowei Kong; Mingzhu Hu; Qingde Shi; Jinlei Nie<br>Applied Physiology, Nutrition, and Metabolism. (JCR: Q2; IF: 2.5)<br>
 
 

@@ -26,7 +26,7 @@ to book a meeting with me.
 Choose a convenient date and time from the calendar below.
 
 <div class="calendly-inline-widget"
-     data-url="YOUR_CALENDLY_LINK"
+     data-url="https://calendly.com/zanewuzz/30min"
      style="min-width:320px;height:750px;">
 </div>
 

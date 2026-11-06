@@ -6,37 +6,31 @@ title: Coffee chat
 
 > ☕ Let's Have a Coffee Chat!
 
-I'd love to connect with students, researchers, and academics
-from around the world.
 
-Whether you want to discuss sports science, research ideas,
-PhD experiences, or potential collaborations, you are welcome
-to book a meeting with me.
+<h2>Book Your Coffee Chat</h2>
 
-**Meeting duration:** 15 ~ 30 minutes
+<p>
+Choose your preferred date and time below.
+</p>
 
-**Meeting format:** Online (Google Meet)
-
-**Language:** English/Chinese
-
----
-
-## Book Your Coffee Chat
-
-Choose a convenient date and time from the calendar below.
-
-<div class="calendly-inline-widget"
-     data-url="https://calendly.com/zanewuzz/30min"
-     style="min-width:320px;height:750px;">
+<div style="width:100%; overflow:hidden;">
+  <iframe
+    src="https://calendly.com/zanewuzz/30min?embed_domain=xavierwzz.github.io&embed_type=Inline"
+    width="100%"
+    height="900"
+    frameborder="0"
+    title="Book a Coffee Chat with Zongze Wu"
+    style="border:0; min-width:320px;">
+  </iframe>
 </div>
 
-<script src="https://assets.calendly.com/assets/external/widget.js"
-        type="text/javascript"
-        async>
-</script>
-
----
-
-Looking forward to meeting you!
+<p style="text-align:center; margin-top:20px;">
+  Having trouble viewing the calendar?
+  <a href="https://calendly.com/zanewuzz/30min"
+     target="_blank"
+     rel="noopener noreferrer">
+     Book directly through Calendly
+  </a>
+</p>
 
 <br>

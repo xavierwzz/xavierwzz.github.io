@@ -28,5 +28,5 @@ If you are interested in any aspect of me, I am always open to discussions and a
 - Exercise sciences
 
 ---
-（updated on 2026/10/22)
+（updated on 2026/11/06)
 <br>

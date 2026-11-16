@@ -29,7 +29,7 @@ Choose your preferred date and time below.
   <a href="https://cal.com/xavier-wu-i0qcad/15min"
      target="_blank"
      rel="noopener noreferrer">
-     Book directly through Calendly
+     Book directly through Cal.com
   </a>
 </p>
 

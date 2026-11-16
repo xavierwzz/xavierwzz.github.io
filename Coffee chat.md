@@ -15,7 +15,7 @@ Choose your preferred date and time below.
 
 <div style="width:100%; overflow:hidden;">
   <iframe
-    src="https://calendly.com/zanewuzz/30min?embed_domain=xavierwzz.github.io&embed_type=Inline"
+    src="https://cal.com/xavier-wu-i0qcad/15min?embed=true"
     width="100%"
     height="900"
     frameborder="0"
@@ -26,7 +26,7 @@ Choose your preferred date and time below.
 
 <p style="text-align:center; margin-top:20px;">
   Having trouble viewing the calendar?
-  <a href="https://calendly.com/zanewuzz/30min"
+  <a href="https://cal.com/xavier-wu-i0qcad/15min"
      target="_blank"
      rel="noopener noreferrer">
      Book directly through Calendly
